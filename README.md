@@ -8,4 +8,4 @@ Noise Machine is an [Audulus](http://audulus.com) module capable of Generating W
 ## Usage
 The repository contains two files, the `Noise Machine.audulus` which is the module and an `Example.audulus` file that is programmed for a soft noise. The example file can also be used as your relaxation software.
 
-![](https://user-images.githubusercontent.com/2157285/143585012-c5ab43ca-8344-4759-8586-fe9b8f51fa6f.png)
+![](https://user-images.githubusercontent.com/2157285/143585873-0dcd119d-550c-477a-bf29-968e2d7a1b16.png)
